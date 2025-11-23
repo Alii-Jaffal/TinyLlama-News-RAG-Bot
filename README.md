@@ -6,7 +6,7 @@ This project uses **LangChain**, **FAISS**, and **Gradio** to build a smooth RAG
 
 ## 📸 Project Screenshots
 
-### 🖼️ Screenshot 1 — Main Interface  
+### 🖼️ Screenshot 1 — Answer Example 
 ![Screenshot 1](images/screenshot1.png)
 
 ### 🖼️ Screenshot 2 — Answer Example  
